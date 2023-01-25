@@ -1,0 +1,157 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+.top{
+    height: 50px;
+    width: 1500px;
+    display: flex;
+    justify-content: space-between;
+
+    background-color:white;
+    
+   
+}
+.top .topbuton{
+    margin-top: 5px;
+    width: 160px;
+    margin-left: 90px;
+    background-color:darkcyan;
+     padding-top:10px ;
+    color:white;
+    border: none;
+
+}
+.righttop{
+    display: flex;
+}
+.righttop span{
+    margin-top:20px;
+    margin-right: 20px;
+    color:slategray;
+   
+}
+.righttop div{
+    margin-right:10px;
+    background-color:slategray;
+    height: 40px;
+    width: 1px;
+    margin-top:5px;
+}
+.bodyclass{
+    width: 1150;
+    background-color: lightgray;
+    height: 700px;
+    display:flex;
+    
+}
+
+.bodyclass h1{
+    color:darkcyan;
+    margin-left: 10px;
+  
+}
+
+.bodyclass .test1{
+    margin-top:20px;
+    width: 900px;
+    height: 680px;
+    background-color: white;
+    
+    margin-left:100px;
+    
+   
+  
+   
+}
+.test1 .forhr{
+    margin:4px;
+    width: 600;
+    height: 1px;
+    background-color:slategray;
+}
+
+
+.test1 .web .test2{
+   margin-left: 10px; 
+    margin-bottom: 150px;
+   
+}
+.web{
+    display:flex;
+    width: 850px;
+    height: 240px;
+}
+.web img{
+    width: 250px;
+    height: 250px;
+}
+.web h2{
+    color:rgb(74, 71, 71);
+    margin-top:20px;
+    width: 250px; 
+    margin-bottom: 10px;   
+}
+.test1 .foot{
+    width: 750px;
+    margin-bottom: 100px;
+    margin-left:50px;
+}
+
+.bodyclass .endfoot1{
+    width: 1150;
+    height: 2px;
+    background-color: darkcyan;
+
+}
+.bodyclass .endfoot2{
+    width: 1150;
+    height: 2px;
+    background-color: rgb(231, 22, 22);
+
+}
+.right1{
+    background-color: white;
+    width: 300px;
+    height: 170px;
+    margin-left:50px;
+    margin-top: 20px;
+}
+.right1 .forhr2{
+   
+    margin:4px;
+    width: 290px;
+    height: 1px;
+    background-color:slategray;
+}
+.right1 img{
+    width: 60px;
+    height: 70px;
+    margin-left:27px;
+    margin-top: 20px;
+}
+.end1{
+    width: 1150;
+    height: 3px;
+    background-color: darkcyan;
+    
+}
+.end2{
+    width: 1150;
+    height: 40px;
+    background-color:black;
+     opacity: 0.5;
+      padding: 10px;
+    
+   
+}
+.end2 span{
+   
+    margin-left:650px;
+    color:rgb(74, 71, 71);   
+    font-size:medium;
+    padding-top: 1px;
+    
+
+}
